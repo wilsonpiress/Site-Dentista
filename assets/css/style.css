@@ -178,7 +178,7 @@ section.perfil-container .perfil-wraper2{
 section.perfil-container .img-perfil{
 	width: 40%;
 	height: 100%;
-	background-image: url('../imagens/img_perfil.png');
+	background-image: url('../assets/img/img_perfil.png');
 	background-size: 100% 100%;
 }
 
